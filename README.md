@@ -24,7 +24,8 @@ python app.py
 ```
 
 3. Open setting and configure your own AI API
-![AppSetting]([https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png](https://raw.githubusercontent.com/Ortonsius/slobrun/refs/heads/main/demo1.png))
+
+![AppSetting](demo1.png)
 
 ## Final Note
 This app is still far from perfect. Lot of things and features need to be added and I really appreciate if you have any positive feedback. Thx.
