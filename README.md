@@ -4,6 +4,8 @@ A personal AI that relies heavily on tools to help you easily automate tasks.
 **Note**:
 This app still in BETA version, you may encounter bugs and security issue. Please use carefully.
 
+**Quick Demo**: https://ortonsius.github.io/Portfolio/assets/slobrun.mp4 (sorry low quality)
+
 ## Motivation
 I create this app that hopefully could help you get your job done faster. The idea of this app is came from Nocobase and OpenClaw. Nocobase is a low-code UI builder and OpenClaw is a autonomous personal AI assistant. When it combine together, we could have a personal AI assistant and low-code UI builder at same time.
 
